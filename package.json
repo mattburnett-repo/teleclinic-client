@@ -8,7 +8,6 @@
     "build": "tsc && vite build",
     "test": "jest --runInBand --verbose --colors"
   },
-  "packageManager": "yarn@4.6.0",
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.8",
     "@testing-library/dom": "^10.4.0",
